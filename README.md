@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IKadekFredlySukrata&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKadekFredlySukrata&theme=radical&hide_border=true" width="48%" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=IKadekFredlySukrata&theme=radical&hide_border=true" width="48%" alt="Streak"/>
 </div>
 
 <div align="center">
