@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=I'm+I+Kadek+Fredly+Sukrata;Aspiring+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=I'm+I+Kadek+Fredly+Sukrata;Aspiring+Machine+Learning+Engineer" alt="Typing SVG" />
   
   <br><br>
   
@@ -79,7 +79,7 @@ Universitas Negeri Surabaya • Aug 2023 – Aug 2027
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=435&lines=Sometimes+my+wildest+ideas+are+the+ones+that+work...+%F0%9F%8C%9F" alt="Fun Fact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=Sometimes+my+wildest+ideas+are+the+ones+that+work...+%F0%9F%8C%9F" alt="Fun Fact"/>
 </div>
 
 <div align="center">
