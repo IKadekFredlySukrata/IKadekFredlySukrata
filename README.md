@@ -48,7 +48,7 @@ ML-powered predictive maintenance with full MLOps pipeline
 ML-powered predictive maintenance with full MLOps pipeline  
 **Tech:** TensorFlow, FastAPI
 
-[Live Demo](https://huggingface.co/spaces/FredlySukrata/Predictive-Maintenance-Copilot) • [GitHub](https://github.com/IKadekFredlySukrata/Predictive-Maintenance-Copilot)
+[Live Demo](https://huggingface.co/spaces/FredlySukrata/Predictive-Maintenance-Copilot) • [GitHub](https://github.com/IKadekFredlySukrata/Maintenance-Copilot)
 
 **Colour Deficiency Detector**  
 Interactive app for detecting color vision deficiency with instant feedback  
