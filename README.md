@@ -29,8 +29,6 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IKadekFredlySukrata&theme=radical&hide_border=true" width="48%" alt="Streak"/>
-  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKadekFredlySukrata&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKadekFredlySukrata&layout=compact&langs_count=8&theme=algolia"/>
